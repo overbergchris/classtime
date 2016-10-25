@@ -1,0 +1,98 @@
+<h3 id="in-defense-of-day-n-nite-crookers-remix"><strong>In Defense of Day ‘N’ Nite (Crookers Remix)</strong></h3>
+
+
+
+<h4 id="by-chris-overberg"><strong>By: Chris Overberg</strong></h4>
+
+<p>Upon first hearing <a href="https://www.youtube.com/watch?v=VrDfSZ_6f4U">Day N Nite by Kid Cudi</a>, and <a href="https://www.youtube.com/watch?v=YcVPnX-nML4">Day N Nite (Crookers Remix)</a>, one might conclude that the original work’s copyright is infringed upon. After closer examination, however, there are several differences that separate the two songs, and in turn do not violate the copyright protections the original song enjoys.</p>
+
+
+
+<h6 id="disclaimer"><em>Disclaimer</em></h6>
+
+<p>For the purpose of defense, Kid Cudi’s version of the song will be referred to as the original work, and Crookers remix will simply be referred to as the remix. </p>
+
+<p><strong>The Song</strong> <br>
+Released as a single in 2008, then later on his next album, Day N Nite by Kid Cudi was a widely received song. Listeners loved the slow, electric, synthesizer produced sound, coupled with a bass and drum machine in the background. Lyrically, it was a tale of a stoner and the night he experiences. Listeners especially liked the end of the song, where the beat morphs into a deep voice repeating a phrase. Even the artwork for the song was praised as clean, simple, but still visually appealing. <img src="http://www.walldevil.com/wallpapers/a88/covers-wallpaper-album-cudi-kid-wallpapers.jpg" alt="alt text" title=""></p>
+
+<p>The same year it was released, an Italian duo by the name of Crooker remixed the song. The remix was also received by the public, in part because it was released for free, and did not require users to buy it. </p>
+
+
+
+<h3 id="the-similarities"><strong>The similarities</strong></h3>
+
+<p>While this is a defense of how the remix did not infringe on the copyright, it would be a disservice to say there are no similarities between the two songs. First, and most obviously, the lyrics from the original are still present in the remix. While they are at times moved around and changed, anyone who has heard the original could very quickly tell that the lyrics are a constant between the two songs. Also, the remix uses the same album work as the original.</p>
+
+
+
+<h3 id="the-differences"><strong>The differences</strong></h3>
+
+<p>Where the original and the remix differ is in the sounds added in the remix. While the original has a slower, loopier beat, Crooker added heavier bass accents, brought up some of the more quiet drum sounds, and even added and alarm sound to the beat. As a result, the original song takes a slower, more relaxed beat, while the remix is a much more quickly paced song, more suited for dancehalls.</p>
+
+<table>
+<thead>
+<tr>
+  <th align="center">Original Song by Kid Cudi</th>
+  <th>Crookers Remix</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td align="center">Slow, looping beat</td>
+  <td>Bumping, faster beat, easier to dance to</td>
+</tr>
+<tr>
+  <td align="center">Cost money to listen to</td>
+  <td>Free upon release</td>
+</tr>
+<tr>
+  <td align="center">Commercially successful</td>
+  <td>Appeared in a few video games</td>
+</tr>
+</tbody></table>
+
+
+<p>This is an important distinction to note. According to <a href="https://www.law.cornell.edu/uscode/text/17/107">17 US Code § 107- Limitations on exclusive rights: Fair Use</a>, when judging whether a works copyright has been infringed, </p>
+
+<blockquote>
+  <p>In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include— <br>
+  …the amount and substantiality of the portion used in relation to the copyrighted work as a whole.</p>
+</blockquote>
+
+<p>When comparing the two songs side by side, it becomes obvious that a number of important elements from the original are changed or even absent from the remix.</p>
+
+<ol>
+<li>In the remix, the lyrics are, at times, rearranged, removed, or replaced with a beat</li>
+<li>The remix contains many new sounds not in the original, such as the afore mentioned alarm sound and deeper bass notes.</li>
+<li>The remix itself was never for sale, instead it was released to the public for free.</li>
+</ol>
+
+<h3 id="fair-use-argument"><strong>Fair Use Argument</strong></h3>
+
+<p>There are a number of factors to consider when judging whether a copyright has been violated, but there are four major factors to consider.</p>
+
+
+
+<h5 id="the-transformative-factor-the-purpose-and-character-of-your-use"><strong>The Transformative Factor: The Purpose and Character of Your Use</strong></h5>
+
+<p>The Supreme Court ruled in 1994 that this was the first factor to consider in a copyright case. They asked <a href="http://fairuse.stanford.edu/overview/fair-use/four-factors/">Has the material you have taken from the original work been transformed by adding new expression or meaning?</a> and <a href="http://fairuse.stanford.edu/overview/fair-use/four-factors/">Was value added to the original by creating new information, new aesthetics, new insights, and understandings?</a> <br>
+In my opinion, the remix was different enough that the expression of the song changed. As previously mentioned, the added sounds to the beat completely change the dynamic of the song. </p>
+
+
+
+<h5 id="the-nature-of-the-copyrighted-work"><strong>The nature of the copyrighted work</strong></h5>
+
+<p>The original song is a published work, which allows <a href="http://fairuse.stanford.edu/overview/fair-use/four-factors/">“stronger case of fair use if you copy the material from a published work than an unpublished work.”</a>.</p>
+
+
+
+<h5 id="the-amount-and-sustainability-of-the-portion-taken"><strong>The Amount and Sustainability of the Portion Taken</strong></h5>
+
+<p>This can be a judgement call, but in my opinion, the portion taken from the original song include some lyrics, and perhaps the base beat. However, I believe the beat is manipulated to the point where is has clear difference between to the two. </p>
+
+<p>There is no discernible part of the original work that would be be considered essential to its sound. The song is merely a sum of its parts. It would be fair to say that, had this song contained a very memorable part or parts, there is a <a href="http://fairuse.stanford.edu/overview/fair-use/four-factors/">greater chance the remix would violate copyright</a>. </p>
+
+
+
+<h5 id="the-effect-of-the-use-upon-the-potential-market"><strong>The Effect of the Use Upon the Potential Market</strong></h5>
+
+<p>The final factor to consider whether the copyrighted work’s value is impacted by the other work. Because the remix was released for free, Crooker stood to make no money from the release, henceforth not impacting the value of the original work. </p>
